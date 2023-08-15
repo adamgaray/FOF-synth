@@ -1,4 +1,4 @@
-function y = proj_synth(notes, outfile, fs)
+function y = synth(notes, outfile, fs)
 % note: [vowel, freq, duration]
 % notes: [note1; note2; ...]
 
