@@ -24,3 +24,7 @@ When different FOFs are used in parallel to perform synthesis, each FOF is respo
 ```
 
 Example parameters for the first few notes of Ave Maria are provided, and the results can be heard in `wavs/ave_maria.wav`.
+
+<br> <br>
+
+Originally written for MUMT501 (Fall 2022) at McGill University.
